@@ -9,8 +9,8 @@
   <img align="left" alt="Canh Doan | Twitter" width="21px" src="https://raw.githubusercontent.com/canhdoan/canhdoan/main/assets/social/linkedin.svg" style="vertical-align:left; margin:4px"/>
 </a> -->
 <a href="https://open.spotify.com/user/w6bevm597zl73ogwjkex3tit2">
-  <img align="left" alt="Canh Doan | Twitter" width="21px" src="https://raw.githubusercontent.com/canhdoan/canhdoan/main/assets/social/spotify.svg" style="vertical-align:left; margin:4px"/>
-</a> <br />
+  <img align="left" alt="Canh Doan | Twitter" width="21px" src="assets/social/spotify.png" style="vertical-align:left; margin:4px"/>
+</a>
 
 <br />
 <br />
