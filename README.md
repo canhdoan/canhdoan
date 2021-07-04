@@ -14,6 +14,7 @@
 
 <br />
 <br />
+<img align="right" height="270px" width="450px" alt="GIF" src="assets/code.gif" />
 
 My name is Canh Doan, a full-stack developer from Viet Nam.
 
